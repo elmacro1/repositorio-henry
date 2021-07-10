@@ -1,0 +1,30 @@
+body{
+    background-color: #7bE495;
+    text-align: center;
+}
+
+#tituloPrincipal{
+    font-family: 'Otomanopee One', sans-serif;;
+    font-size: 60px;
+    color: #205072;
+}
+
+li{
+    list-style: none;
+}
+
+div{
+    border: 3px solid black;
+    margin: 0 400px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+h3{
+    font-size: 30px;
+    color: #205072;
+}
+
+img {
+    width: 200px;
+}
